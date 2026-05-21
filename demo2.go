@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func demo2() {
 	var name string
 	var age int
 	n, err := fmt.Scanf("%s - %d", &name, &age)

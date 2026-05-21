@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	demo1()
+	demo2()
 	fmt.Print("hello world")
 
 	// 先定义，再赋值
